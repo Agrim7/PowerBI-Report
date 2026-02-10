@@ -1,1 +1,1 @@
-This is a collection of personal projects I have completed in my spare time during university.
+This PowerBI project highlights existing trends from an employee information dataset. The employee table is linked with a date table to reveal statistics such as Voluntary Exits by Year, Net Employees, Active, New Employees and more.
